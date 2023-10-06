@@ -1,0 +1,41 @@
+Imad Khan
+Swat,Pakistan,19130
+kahnimad35@gmail.com
+03420912891
+
+
+Objective:
+Experienced data scientist with a strong background in machine learning and data analysis, seeking remote opportunities in Canada. Leveraging two years of professional experience and a Bachelor's degree in Data Science to contribute to impactful projects in a virtual environment.
+
+Education:
+Bachelor of Science in Data Science
+UET Peshawar
+- Relevant Coursework: Machine Learning, Data Visualization, Statistics, Database Management, Data Mining
+
+Experience:
+- Successfully collaborated remotely with cross-functional teams to define business objectives and translate them into innovative data-driven solutions.
+- Demonstrated expertise in developing and deploying machine learning models, resulting in a [X%] increase in predictive accuracy.
+- Conducted comprehensive remote exploratory data analysis (EDA) to identify trends, patterns, and outliers, translating them into actionable insights.
+- Utilized remote collaboration tools to clean, preprocess, and analyze complex datasets, employing Python, R, and SQL.
+- Presented findings effectively using data visualizations and dashboards, facilitating communication with non-technical stakeholders across different time zones.
+- Played a pivotal role in optimizing and automating remote data pipelines, reducing preprocessing time by [Y]%.
+- Delivered impactful remote presentations to senior management, driving informed decision-making based on data insights.
+
+- Assisted remotely in collecting, cleaning, and analyzing raw data to support ongoing projects, demonstrating adaptability in a virtual work environment.
+- Collaborated with senior data analysts remotely to design and implement data cleaning and validation protocols.
+- Conducted remote statistical analyses and generated compelling visualizations to support virtual project presentations.
+- Contributed remotely to the development of SQL queries and scripts for extracting valuable insights from databases.
+- Gained expertise in remote data preprocessing techniques, including handling missing values and outlier detection.
+
+Skills:
+ Create a Machine Learning Model , and visulize a pattern in data and built predictive Model
+
+
+Certifications:
+- Coursera Data analysis , Machine Learning , Deep Learning 
+
+Languages:
+- Fluent in English and Other Language
+
+References:
+Available upon request.
